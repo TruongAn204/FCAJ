@@ -7,11 +7,11 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Vũ Gia Hiếu
+&emsp; **Họ và tên:** Trịnh Trường An
 
-&emsp; **Số điện thoại:** 0368208284
+&emsp; **Số điện thoại:** 0857486245
 
-&emsp; **Email:** g.hieu12345@gmail.com
+&emsp; **Email:** trinhtruongan2004@gmail.com
 
 &emsp; **Trường:** Đại học Công nghệ TPHCM (HUTECH)
 
@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 10/07/2026
 
-![Ảnh đại diện của bạn](/images/GiaHieu.jpg)
+![Ảnh đại diện của bạn](/images/TruongAn.jpg)
 
 
 

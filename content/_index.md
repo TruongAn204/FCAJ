@@ -11,11 +11,11 @@ chapter: false
 
 
 ### Student Information:
-&emsp; **Full Name:** Vũ Gia Hiếu
+&emsp; **Full Name:** Trinh Truong An
 
-&emsp; **Phone Number:** 0368208284 
+&emsp; **Phone Number:** 0857486245
 
-&emsp; **Email:** g.hieu12345@gmail.com
+&emsp; **Email:** trinhtruongan2004@gmail.com
 
 &emsp; **University:** HCMC University of Technology (HUTECH)
 
@@ -29,7 +29,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/04/2026 to 10/07/2026
 
-![Your profile picture](/images/GiaHieu.jpg)
+![Your profile picture](/images/TruongAn.jpg)
 
 ### Report Content
 
