@@ -56,7 +56,11 @@ pre: " <b> 4.1. </b> "
 - **Advantages:** Reduces the context window load for each agent, prevents AI from being overwhelmed with noise, and easily scales while allowing human-in-the-loop intervention.
 
 ---
-
+![Event Picture 1](/images/events/event-1/event1-1.jpg?v=20260710)
+![Event Picture 2](/images/events/event-1/event1-2.jpg?v=20260710)
+![Event Picture 3](/images/events/event-1/event1-3.jpg?v=20260710)
+![Event Picture 4](/images/events/event-1/event1-4.jpg?v=20260710)
+![Event Picture 5](/images/events/event-1/event1-5.jpg?v=20260710)
 ### What I Learned
 - Understood the dopamine mechanism to self-motivate daily AWS study sessions without feeling bored or overwhelmed.
 - Learned how to optimize prompts when using AI and visualized a real-world Serverless AI architecture on AWS (S3, API Gateway, Lambda, Bedrock).

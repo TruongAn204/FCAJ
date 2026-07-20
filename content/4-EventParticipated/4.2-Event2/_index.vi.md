@@ -58,7 +58,7 @@ pre: " <b> 4.2. </b> "
 - **Giao thức MCP (Model Context Protocol):** Cách chuẩn hóa kết nối từ LLM đến nguồn dữ liệu, chuyển đổi mô hình tích hợp phức tạp $M \times N$ thành $M + N$ tinh giản.
 
 ---
-
+![Event Picture 1](/images/events/event-2/event2-3.jpg?v=20260710)
 ### Những Gì Học Được
 
 #### Tư Duy Thiết Kế

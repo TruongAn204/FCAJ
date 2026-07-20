@@ -75,7 +75,9 @@ pre: " <b> 4.2. </b> "
 - Moving from proof-of-concept (POC) to production requires strict compliance and rigid security standards.
 - **The Copy-Paste Code Trap:** AI gets you from 0 to 1 quickly, but scaling from 1 to N requires software engineering discipline. Copy-pasting massive AI-generated code blocks (`Ctrl+C` / `Ctrl+V`) without strict code reviews is dangerous and can crash production systems.
 
+
 ---
+![Event Picture 1](/images/events/event-2/event2-3.jpg?v=20260710)
 
 ### Applying to Work & Study
 

@@ -56,6 +56,11 @@ pre: " <b> 4.1. </b> "
 - **Ưu điểm:** Giảm bớt lượng context window cho mỗi agent, AI không bị nhiễu thông tin, dễ dàng mở rộng và can thiệp thủ công (human-in-the-loop).
 
 ---
+![Hình ảnh sự kiện 1](/images/events/event-1/event1-1.jpg?v=20260710)
+![Hình ảnh sự kiện 2](/images/events/event-1/event1-2.jpg?v=20260710)
+![Hình ảnh sự kiện 3](/images/events/event-1/event1-3.jpg?v=20260710)
+![Hình ảnh sự kiện 4](/images/events/event-1/event1-4.jpg?v=20260710)
+![Hình ảnh sự kiện 5](/images/events/event-1/event1-5.jpg?v=20260710)
 
 ### Những Gì Học Được
 - Hiểu được cơ chế hoạt động của Dopamine để tự tạo động lực học tập AWS mỗi ngày mà không bị chán nản.
